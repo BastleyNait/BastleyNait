@@ -1,5 +1,5 @@
 <!--
-  GitHub Profile README — replace every YOUR_USERNAME / YOUR_* placeholder.
+  GitHub Profile README — replace every BastleyNait / YOUR_* placeholder.
   To use it: create a repo named exactly like your GitHub username and drop this file in as README.md
 -->
 
@@ -8,8 +8,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student+%40+UNSA;Full-Stack+Developer+%7C+React+%2B+FastAPI;Cloud+%26+Machine+Learning+Enthusiast;Always+learning%2C+always+building" alt="Typing SVG" />
+  <a href="https://github.com/BastleyNait">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+React+%2B+FastAPI;Cloud+%26+Machine+Learning+Enthusiast;4%2B+Projects+Shipped+to+Production;Open+to+New+Opportunities" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
   <a href="https://YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=BastleyNait&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 ---
@@ -34,18 +34,18 @@
 class Developer:
     def __init__(self):
         self.name = "Sebas"
-        self.role = "Systems Engineering Student @ UNSA"
+        self.role = "Full-Stack Developer"
         self.location = "Arequipa, Peru 🇵🇪"
         self.focus = ["Full-Stack Development", "Cloud", "AI / ML"]
         self.languages = ["Spanish (native)", "English (intermediate)"]
-        self.current_status = "Building & deploying real projects ☁️"
+        self.current_status = "Open to work — building & deploying real projects ☁️"
 ```
 
-- 🎓 I'm a **Systems Engineering** student in my final years at the **National University of San Agustín (UNSA)**.
-- 💻 I build **full-stack web apps** with React/Next.js on the front and FastAPI/Django/Flask on the back.
-- ☁️ I have **4+ projects already deployed to the cloud** (AWS & Google Cloud).
-- 🔐 Beyond coding, I study **security, networking, software testing, agile methodologies, and quality standards**.
-- 🌱 Currently going deeper into **AI/ML and cloud architecture**.
+- 💻 **Full-Stack Developer** building web apps with React/Next.js on the front and FastAPI/Django/Flask on the back.
+- ☁️ I've shipped **4+ projects to production** on AWS & Google Cloud.
+- 🔐 Strong foundation in **security, networking, software testing, agile methodologies, and quality standards**.
+- 🌱 Continuously sharpening my skills in **AI/ML and cloud architecture**.
+- 🤝 **Open to new opportunities** — let's build something great together.
 
 ---
 
@@ -88,7 +88,7 @@ class Developer:
 
 ## 🎯 Engineering Skills
 
-> Knowledge I've built through my Systems Engineering studies at UNSA:
+> Engineering knowledge I bring beyond writing code:
 
 | Area | Focus |
 |------|-------|
@@ -113,7 +113,7 @@ class Developer:
 
 `React` · `FastAPI` · `Docker` · `GCP`
 
-[🔗 Live Demo](https://YOUR_DEMO_URL) · [📂 Repo](https://github.com/YOUR_USERNAME/YOUR_REPO)
+[🔗 Live Demo](https://YOUR_DEMO_URL) · [📂 Repo](https://github.com/BastleyNait/YOUR_REPO)
 
 </td>
 <td width="50%">
@@ -123,7 +123,7 @@ class Developer:
 
 `Next.js` · `Django` · `AWS`
 
-[🔗 Live Demo](https://YOUR_DEMO_URL) · [📂 Repo](https://github.com/YOUR_USERNAME/YOUR_REPO)
+[🔗 Live Demo](https://YOUR_DEMO_URL) · [📂 Repo](https://github.com/BastleyNait/YOUR_REPO)
 
 </td>
 </tr>
@@ -135,7 +135,7 @@ class Developer:
 
 `React` · `Flask` · `Tailwind` · `Docker`
 
-[🔗 Live Demo](https://YOUR_DEMO_URL) · [📂 Repo](https://github.com/YOUR_USERNAME/YOUR_REPO)
+[🔗 Live Demo](https://YOUR_DEMO_URL) · [📂 Repo](https://github.com/BastleyNait/YOUR_REPO)
 
 </td>
 <td width="50%">
@@ -145,7 +145,7 @@ class Developer:
 
 `Next.js` · `FastAPI` · `ML` · `GCP`
 
-[🔗 Live Demo](https://YOUR_DEMO_URL) · [📂 Repo](https://github.com/YOUR_USERNAME/YOUR_REPO)
+[🔗 Live Demo](https://YOUR_DEMO_URL) · [📂 Repo](https://github.com/BastleyNait/YOUR_REPO)
 
 </td>
 </tr>
@@ -156,16 +156,16 @@ class Developer:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BastleyNait&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastleyNait&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BastleyNait&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=BastleyNait&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies"/>
 </p>
 
 ---
