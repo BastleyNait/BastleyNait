@@ -1,5 +1,5 @@
 <!--
-  GitHub Profile README — replace every BastleyNait / YOUR_* placeholder.
+  GitHub Profile README — replace remaining YOUR_* placeholders.
   To use it: create a repo named exactly like your GitHub username and drop this file in as README.md
 -->
 
@@ -30,22 +30,13 @@
 
 ## 🚀 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Sebas"
-        self.role = "Full-Stack Developer"
-        self.location = "Arequipa, Peru 🇵🇪"
-        self.focus = ["Full-Stack Development", "Cloud", "AI / ML"]
-        self.languages = ["Spanish (native)", "English (intermediate)"]
-        self.current_status = "Open to work — building & deploying real projects ☁️"
-```
-
+- 🎓 **Ingeniero de Sistemas** en formación — Universidad Nacional de San Agustín de Arequipa (UNSA), cursando el penúltimo ciclo.
 - 💻 **Full-Stack Developer** building web apps with React/Next.js on the front and FastAPI/Django/Flask on the back.
 - ☁️ I've shipped **4+ projects to production** on AWS & Google Cloud.
 - 🔐 Strong foundation in **security, networking, software testing, agile methodologies, and quality standards**.
 - 🌱 Continuously sharpening my skills in **AI/ML and cloud architecture**.
 - 🤝 **Open to new opportunities** — let's build something great together.
+- 📍 Arequipa, Peru 🇵🇪
 
 ---
 
@@ -90,6 +81,7 @@ class Developer:
 <p>
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML"/>
   <img src="https://img.shields.io/badge/Artificial_Intelligence-8E44AD?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
@@ -113,26 +105,26 @@ class Developer:
 
 ## 💼 Featured Projects
 
-> 4 projects already built and deployed to the cloud. Replace the placeholders below with your real data.
+> 4 projects already built and deployed to the cloud.
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌐 Project One
-**Replace with project description — what it does and why it matters.**
+### 🌐 Lo Exacto
+Landing / web platform built and deployed to production.
 
-`React` · `FastAPI` · `Docker` · `GCP`
+`Next.js` · `PostgreSQL`
 
 [🔗 Live Demo](https://YOUR_DEMO_URL) · [📂 Repo](https://github.com/BastleyNait/YOUR_REPO)
 
 </td>
 <td width="50%">
 
-### 🌐 Project Two
-**Replace with project description — what it does and why it matters.**
+### 🌐 Calitop Services
+Landing / web platform built and deployed to production.
 
-`Next.js` · `Django` · `AWS`
+`Next.js` · `PostgreSQL`
 
 [🔗 Live Demo](https://YOUR_DEMO_URL) · [📂 Repo](https://github.com/BastleyNait/YOUR_REPO)
 
@@ -141,20 +133,20 @@ class Developer:
 <tr>
 <td width="50%">
 
-### 🌐 Project Three
-**Replace with project description — what it does and why it matters.**
+### 🤖 Acutriaje
+AI-powered triage system using a local LLM via Ollama.
 
-`React` · `Flask` · `Tailwind` · `Docker`
+`Next.js` · `FastAPI` · `Ollama`
 
 [🔗 Live Demo](https://YOUR_DEMO_URL) · [📂 Repo](https://github.com/BastleyNait/YOUR_REPO)
 
 </td>
 <td width="50%">
 
-### 🌐 Project Four
-**Replace with project description — what it does and why it matters.**
+### 🧾 Boom POS
+My most complete project — a full POS + CRM system with a polished UI/UX.
 
-`Next.js` · `FastAPI` · `ML` · `GCP`
+`Next.js` · `API Routes` · `PostgreSQL` · `Zustand` · `Flask`
 
 [🔗 Live Demo](https://YOUR_DEMO_URL) · [📂 Repo](https://github.com/BastleyNait/YOUR_REPO)
 
