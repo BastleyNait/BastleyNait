@@ -76,6 +76,16 @@ class Developer:
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 </p>
 
+### Databases & APIs
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Vector_DB-0A7E8C?style=for-the-badge&logo=chromadb&logoColor=white" alt="Vector DB"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</p>
+
 ### AI / ML & Data
 <p>
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML"/>
@@ -92,10 +102,11 @@ class Developer:
 
 | Area | Focus |
 |------|-------|
-| 🔐 **Security & Networking** | Secure development practices, network fundamentals |
-| 🧪 **Software Testing** | Unit, integration & end-to-end testing |
+| 🏛️ **Software Architecture & Design** | Design patterns, distributed systems, scalable apps |
+| 📋 **Requirements & Project Mgmt** | Requirements engineering, software project management |
+| 🔐 **Security & Networking** | Secure development, IT auditing, network fundamentals |
+| 🧪 **Testing & Quality** | Unit/integration/E2E testing, software quality standards |
 | 🔄 **Agile Methodologies** | Scrum, Kanban, iterative delivery |
-| 📐 **Quality Standards** | Clean code, best practices, software quality |
 | ☁️ **Cloud Deployment** | CI/CD, containerization, production hosting |
 
 ---
