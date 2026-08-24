@@ -14,13 +14,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/sebastian-arley-chirinos-negr%C3%B3n-1762102a3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:schirinosne@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL">
+  <a href="https://github.com/BastleyNait">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=BastleyNait&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
