@@ -4,7 +4,7 @@
 -->
 
 <h1 align="center">
-  Hi 👋, I'm Sebas
+  Hi 👋, I'm Sebastian
 </h1>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Ingeniero de Sistemas** en formación — Universidad Nacional de San Agustín de Arequipa (UNSA), cursando el penúltimo ciclo.
+- 🎓 **Ingeniero de Sistemas** de ultimo ciclo — Universidad Nacional de San Agustín de Arequipa (UNSA).
 - 💻 **Full-Stack Developer** building web apps with React/Next.js on the front and FastAPI/Django/Flask on the back.
 - ☁️ I've shipped **4+ projects to production** on Vercel & Google Cloud.
 - 🔐 Strong foundation in **security, networking, software testing, agile methodologies, and quality standards**.
@@ -129,12 +129,23 @@ Landing / web platform built and deployed to production, admin page and catalog.
 [🔗 Live Demo](https://www.calitop-services.com/) · [📂 Repo](https://github.com/BastleyNait/CALITOP-WEB)
 
 </td>
+</td>
+<td width="50%">
+
+### 💻 Revolt Laptop
+My own bussines of refurbished laptops, a complete catalog and admin panel.
+
+`Next.js` · `PostgreSQL`
+
+[🔗 Live Demo](https://revolt-laptops.vercel.app/) · [📂 Repo](https://github.com/BastleyNait/REVOLT-LAP)
+
+</td>
 </tr>
 <tr>
 <td width="50%">
 
 ### 🤖 Anemivision
-AI-powered anemia detectetion edge computing ML.
+AI-powered OFFLINE anemia detectetion edge computing ML.
 
 `TensorflowLite` · `¨Pytorch` · `Android` · `kotlin`
 
