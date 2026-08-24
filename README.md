@@ -109,7 +109,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🌐 Lo Exacto
 Landing / web platform built and deployed to production.
@@ -119,7 +119,7 @@ Landing / web platform built and deployed to production.
 [🔗 Live Demo](https://www.lo-exacto.com/) · [📂 Repo](https://github.com/BastleyNait/LO-EXACTO.git)
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 🌐 Calitop Services
 Landing / web platform built and deployed to production, admin page and catalog.
@@ -130,7 +130,7 @@ Landing / web platform built and deployed to production, admin page and catalog.
 
 </td>
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 💻 Revolt Laptop
 My own bussines of refurbished laptops, a complete catalog and admin panel.
@@ -142,7 +142,7 @@ My own bussines of refurbished laptops, a complete catalog and admin panel.
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🤖 Anemivision
 AI-powered OFFLINE anemia detectetion edge computing ML.
@@ -152,7 +152,7 @@ AI-powered OFFLINE anemia detectetion edge computing ML.
 [🔗 Live Demo](Soon) · [📂 Repo](https://github.com/BastleyNait/ANEMIVISION)
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 🧾 Boom POS
 A full POS + CRM system with a polished UI/UX.
