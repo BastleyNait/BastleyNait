@@ -106,7 +106,7 @@
 
 ## 💼 Featured Projects
 
-> 4 projects already built and deployed to the cloud.
+> 5 projects already built and deployed to the cloud.
 
 <table>
 <tr>
