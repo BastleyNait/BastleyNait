@@ -8,24 +8,23 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/BastleyNait">
+  <a href="https://github.com/BastleyNait" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+React+%2B+FastAPI;Cloud+%26+Machine+Learning+Enthusiast;4%2B+Projects+Shipped+to+Production;Open+to+New+Opportunities" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sebastian-arley-chirinos-negr%C3%B3n-1762102a3/">
+  <a href="https://www.linkedin.com/in/sebastian-arley-chirinos-negr%C3%B3n-1762102a3/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:schirinosne@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/BastleyNait">
+  <a href="https://github.com/BastleyNait" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=BastleyNait&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
-
 ---
 
 ## 🚀 About Me
