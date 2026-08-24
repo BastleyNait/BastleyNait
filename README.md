@@ -32,7 +32,7 @@
 
 - 🎓 **Ingeniero de Sistemas** en formación — Universidad Nacional de San Agustín de Arequipa (UNSA), cursando el penúltimo ciclo.
 - 💻 **Full-Stack Developer** building web apps with React/Next.js on the front and FastAPI/Django/Flask on the back.
-- ☁️ I've shipped **4+ projects to production** on AWS & Google Cloud.
+- ☁️ I've shipped **4+ projects to production** on Vercel & Google Cloud.
 - 🔐 Strong foundation in **security, networking, software testing, agile methodologies, and quality standards**.
 - 🌱 Continuously sharpening my skills in **AI/ML and cloud architecture**.
 - 🤝 **Open to new opportunities** — let's build something great together.
@@ -116,39 +116,39 @@ Landing / web platform built and deployed to production.
 
 `Next.js` · `PostgreSQL`
 
-[🔗 Live Demo](https://YOUR_DEMO_URL) · [📂 Repo](https://github.com/BastleyNait/YOUR_REPO)
+[🔗 Live Demo](https://www.lo-exacto.com/) · [📂 Repo](https://github.com/BastleyNait/LO-EXACTO.git)
 
 </td>
 <td width="50%">
 
 ### 🌐 Calitop Services
-Landing / web platform built and deployed to production.
+Landing / web platform built and deployed to production, admin page and catalog.
 
 `Next.js` · `PostgreSQL`
 
-[🔗 Live Demo](https://YOUR_DEMO_URL) · [📂 Repo](https://github.com/BastleyNait/YOUR_REPO)
+[🔗 Live Demo](https://www.calitop-services.com/) · [📂 Repo](https://github.com/BastleyNait/CALITOP-WEB)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🤖 Acutriaje
-AI-powered triage system using a local LLM via Ollama.
+### 🤖 Anemivision
+AI-powered anemia detectetion edge computing ML.
 
-`Next.js` · `FastAPI` · `Ollama`
+`TensorflowLite` · `¨Pytorch` · `Android` · `kotlin`
 
-[🔗 Live Demo](https://YOUR_DEMO_URL) · [📂 Repo](https://github.com/BastleyNait/YOUR_REPO)
+[🔗 Live Demo](Soon) · [📂 Repo](https://github.com/BastleyNait/ANEMIVISION)
 
 </td>
 <td width="50%">
 
 ### 🧾 Boom POS
-My most complete project — a full POS + CRM system with a polished UI/UX.
+A full POS + CRM system with a polished UI/UX.
 
 `Next.js` · `API Routes` · `PostgreSQL` · `Zustand` · `Flask`
 
-[🔗 Live Demo](https://YOUR_DEMO_URL) · [📂 Repo](https://github.com/BastleyNait/YOUR_REPO)
+[🔗 Live Demo](https://boom-pos.vercel.app/) · [📂 Repo](https://github.com/BastleyNait/BOOM-POS)
 
 </td>
 </tr>
