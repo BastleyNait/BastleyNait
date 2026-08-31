@@ -31,6 +31,7 @@
 
 - 🎓 **Ingeniero de Sistemas** de ultimo ciclo — Universidad Nacional de San Agustín de Arequipa (UNSA).
 - 💻 **Full-Stack Developer** building web apps with React/Next.js on the front and FastAPI/Django/Flask on the back.
+- 📱 Also building **mobile apps** with React Native and native Android (Kotlin).
 - ☁️ I've shipped **4+ projects to production** on Vercel & Google Cloud.
 - 🔐 Strong foundation in **security, networking, software testing, agile methodologies, and quality standards**.
 - 🌱 Continuously sharpening my skills in **AI/ML and cloud architecture**.
@@ -41,10 +42,17 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black" alt="TypeScript"/> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</p>
+
+### Frontend
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand"/>
@@ -54,10 +62,17 @@
 
 ### Backend
 <p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### Mobile
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
 </p>
 
 ### Cloud & DevOps
@@ -100,6 +115,37 @@
 | 🧪 **Testing & Quality** | Unit/integration/E2E testing, software quality standards |
 | 🔄 **Agile Methodologies** | Scrum, Kanban, iterative delivery |
 | ☁️ **Cloud Deployment** | CI/CD, containerization, production hosting |
+
+---
+
+## 📱 Mobile Development
+
+> Building native and cross-platform mobile apps alongside my web work.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Anemivision
+AI-powered OFFLINE anemia detection using edge computing ML, built natively for Android.
+
+`TensorFlow Lite` · `PyTorch` · `Android` · `Kotlin`
+
+[🔗 Live Demo](Soon) · [📂 Repo](https://github.com/BastleyNait/ANEMIVISION)
+
+</td>
+<td width="50%">
+
+### 📲 React Native Apps
+Cross-platform mobile experiences built with React Native, sharing logic and design patterns with my web stack.
+
+`React Native` · `Android` · `Kotlin`
+
+[📂 Repo](https://github.com/BastleyNait)
+
+</td>
+</tr>
+</table>
 
 ---
 
