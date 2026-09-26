@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Ingeniero de Sistemas** de ultimo ciclo — Universidad Nacional de San Agustín de Arequipa (UNSA).
+- 🎓 **Ingeniero de Sistemas** — Universidad Nacional de San Agustín de Arequipa (UNSA).
 - 💻 **Full-Stack Developer** building web apps with React/Next.js on the front and FastAPI/Django/Flask on the back.
 - 📱 Also building **mobile apps** with React Native and native Android (Kotlin).
 - ☁️ I've shipped **4+ projects to production** on Vercel & Google Cloud.
