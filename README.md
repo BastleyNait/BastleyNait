@@ -1,239 +1,139 @@
-<!--
-  GitHub Profile README — replace remaining YOUR_* placeholders.
-  To use it: create a repo named exactly like your GitHub username and drop this file in as README.md
--->
-
-<h1 align="center">
-  Hi 👋, I'm Sebastian
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12100e,100:1d1a16&height=150&text=Sebastian%20Chirinos&fontColor=f3efe4&fontSize=46&fontAlignY=42&desc=Full-stack%20engineer%20%C2%B7%20Arequipa,%20Peru&descAlignY=72&descSize=16&descColor=27f5a9" alt="Sebastian Chirinos — Full-stack engineer, Arequipa, Peru" width="100%"/>
 
 <p align="center">
-  <a href="https://github.com/BastleyNait" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+React+%2B+FastAPI;Cloud+%26+Machine+Learning+Enthusiast;4%2B+Projects+Shipped+to+Production;Open+to+New+Opportunities" alt="Typing SVG" />
-  </a>
+  <a href="https://sebastian-cn-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-27f5a9?style=for-the-badge&logo=vercel&logoColor=14120f" alt="Portfolio"/></a>
+  <a href="https://sebastian-cn-portfolio.vercel.app/cv/CV_Sebastian_Chirinos_FULLSTACK.pdf"><img src="https://img.shields.io/badge/CV-f3efe4?style=for-the-badge&logo=readme&logoColor=14120f" alt="CV"/></a>
+  <a href="https://www.linkedin.com/in/sebastian-arley-chirinos-negr%C3%B3n-1762102a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:schirinosne@gmail.com"><img src="https://img.shields.io/badge/Email-12100e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sebastian-arley-chirinos-negr%C3%B3n-1762102a3/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:schirinosne@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/BastleyNait" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=BastleyNait&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
----
+I build software people use every day: a point of sale that keeps selling when the internet drops, calibration
+certificates a technician opens by scanning the instrument, an Android app that screens for anemia without
+sending a single photo off the phone.
 
-## 🚀 About Me
+Everyone has the same code generator now. What I bring is the decisions around the code: what belongs in the
+system, what it costs, and where it breaks at ten times the size. I write those decisions down.
 
-- 🎓 **Ingeniero de Sistemas** — Universidad Nacional de San Agustín de Arequipa (UNSA).
-- 💻 **Full-Stack Developer** building web apps with React/Next.js on the front and FastAPI/Django/Flask on the back.
-- 📱 Also building **mobile apps** with React Native and native Android (Kotlin).
-- ☁️ I've shipped **4+ projects to production** on Vercel & Google Cloud.
-- 🔐 Strong foundation in **security, networking, software testing, agile methodologies, and quality standards**.
-- 🌱 Continuously sharpening my skills in **AI/ML and cloud architecture**.
-- 🤝 **Open to new opportunities** — let's build something great together.
-- 📍 Arequipa, Peru 🇵🇪
+- 🎓 Systems Engineering, **Universidad Nacional de San Agustín** (UNSA), Arequipa
+- 🚀 **6 systems in production**: web platforms, commerce, a POS, cloud infrastructure, on-device AI
+- 🌎 Open to remote Full-Stack / Software Engineering roles · UTC-5 · English C1
 
 ---
 
-## 🛠️ Tech Stack
+## 🏗️ In production
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
+| | Project | What it is | The decision that shaped it |
+|---|---|---|---|
+| 🧾 | **[Boom POS & CRM](https://boom-pos.vercel.app/)** | Point of sale and CRM for a real store, 100+ sales a day | The cart lives on the client; the server records each sale as one idempotent transaction |
+| 📜 | **[GEOTOP Certificates](https://sebastian-cn-portfolio.vercel.app/case-studies/geotop-certificates)** | 700+ calibration certificates behind a QR printed on each instrument | The QR resolves straight to the PDF: no app, no login, no serial number |
+| 🩸 | **[Anemivision](https://sebastian-cn-portfolio.vercel.app/case-studies/anemivision)** | Native Android app that screens for anemia from a photo of the eyelid | The model ships inside the app, so no patient image ever leaves the phone |
+| 💻 | **[Revolt Laptops](https://revolt-laptops.vercel.app/)** | Store and admin panel for my own refurbished-laptop business | Stock is decremented inside the order transaction, so a unique unit cannot sell twice |
+| 📐 | **[Calitop Services](https://www.calitop-services.com/)** | Service catalog and admin dashboard for a surveying company | Catalog reads are cached and may lag; every write goes through the transactional path |
+| 🎯 | **[Lo Exacto](https://www.lo-exacto.com/)** | Corporate platform built for search visibility and fast loads | Static generation for public pages, server rendering for the dashboard, one database |
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
-
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-</p>
-
-### Mobile
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-</p>
-
-### Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-</p>
-
-### Databases & APIs
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Vector_DB-0A7E8C?style=for-the-badge&logo=chromadb&logoColor=white" alt="Vector DB"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</p>
-
-### AI / ML & Data
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML"/>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-8E44AD?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
+Case studies, architecture decision records and screenshots are on the **[portfolio →](https://sebastian-cn-portfolio.vercel.app)**
 
 ---
 
-## 🎯 Engineering Skills
-
-> Engineering knowledge I bring beyond writing code:
-
-| Area | Focus |
-|------|-------|
-| 🏛️ **Software Architecture & Design** | Design patterns, distributed systems, scalable apps |
-| 📋 **Requirements & Project Mgmt** | Requirements engineering, software project management |
-| 🔐 **Security & Networking** | Secure development, IT auditing, network fundamentals |
-| 🧪 **Testing & Quality** | Unit/integration/E2E testing, software quality standards |
-| 🔄 **Agile Methodologies** | Scrum, Kanban, iterative delivery |
-| ☁️ **Cloud Deployment** | CI/CD, containerization, production hosting |
-
----
-
-## 📱 Mobile Development
-
-> Building native and cross-platform mobile apps alongside my web work.
+## 🔭 Other things I've built
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Anemivision
-AI-powered OFFLINE anemia detection using edge computing ML, built natively for Android.
+### 🕵️ [Deal Hunter](https://github.com/BastleyNait/DEAL-HUNTER)
+A bot that watches eBay for laptops worth refurbishing, scores every listing 0–100 and pings me on
+Telegram when one is a real bargain. It runs as a Supabase Edge Function on `pg_cron`, and the search
+criteria live in a database row, so I change what it hunts for without redeploying.
+Paired with a **[Vue 3 dashboard](https://github.com/BastleyNait/DEAL-WEB)**.
 
-`TensorFlow Lite` · `PyTorch` · `Android` · `Kotlin`
-
-[🔗 Live Demo](Soon) · [📂 Repo](https://github.com/BastleyNait/ANEMIVISION)
+`TypeScript` · `Deno` · `Supabase` · `PostgreSQL` · `Vue 3`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📲 React Native Apps
-Cross-platform mobile experiences built with React Native, sharing logic and design patterns with my web stack.
+### 🐶 [PERR-DIDOS](https://github.com/BastleyNait/PERRDIDOS)
+A Unity game: fly a delivery drone to feed lost dogs before the battery runs out, while wind zones push
+you back. Ten levels, each defined as data (`LevelData` assets) instead of hard-coded scenes.
 
-`React Native` · `Android` · `Kotlin`
+`Unity` · `C#`
 
-[📂 Repo](https://github.com/BastleyNait)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📨 [TelnetMail](https://github.com/BastleyNait/TelnetMail-Attachment)
+Sends email with attachments by talking raw SMTP over a Telnet socket: the handshake, `AUTH`, and the
+MIME multipart body with Base64 attachments, all written by hand. No `smtplib`.
+
+`Python` · `SMTP` · `MIME`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 [Course recommender](https://github.com/BastleyNait/LAB01-04-TABD)
+Semantic search over my school's course catalog: describe your interests and skills in plain words,
+get the courses closest to them. Embeddings stored and queried in a vector database.
+
+`Python` · `ChromaDB` · `Embeddings`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗺️ [AQP Explorer](https://github.com/BastleyNait/AQP-EXPLORER)
+Native Android tourism guide for Arequipa, built with a five-person team. MVVM with Jetpack Compose.
+
+`Kotlin` · `Jetpack Compose` · `MVVM`
+
+</td>
+<td width="50%" valign="top">
+
+### ♿ [MediNotis](https://github.com/BastleyNait/FomulaioMedicina)
+Medication reminder prototype designed around accessibility: the whole UI rescales its text from
+100% up to 180% at runtime, for people who cannot read small print.
+
+`Kotlin` · `Jetpack Compose` · `Accessibility`
 
 </td>
 </tr>
 </table>
 
----
-
-## 💼 Featured Projects
-
-> 5 projects already built and deployed to the cloud.
-
-<table>
-<tr>
-<td width="33%">
-
-### 🌐 Lo Exacto
-Landing / web platform built and deployed to production.
-
-`Next.js` · `PostgreSQL`
-
-[🔗 Live Demo](https://www.lo-exacto.com/) · [📂 Repo](https://github.com/BastleyNait/LO-EXACTO.git)
-
-</td>
-<td width="33%">
-
-### 🌐 Calitop Services
-Landing / web platform built and deployed to production, admin page and catalog.
-
-`Next.js` · `PostgreSQL`
-
-[🔗 Live Demo](https://www.calitop-services.com/) · [📂 Repo](https://github.com/BastleyNait/CALITOP-WEB)
-
-</td>
-</td>
-<td width="33%">
-
-### 💻 Revolt Laptop
-My own bussines of refurbished laptops, a complete catalog and admin panel.
-
-`Next.js` · `PostgreSQL`
-
-[🔗 Live Demo](https://revolt-laptops.vercel.app/) · [📂 Repo](https://github.com/BastleyNait/REVOLT-LAP)
-
-</td>
-</tr>
-<tr>
-<td width="33%">
-
-### 🤖 Anemivision
-AI-powered OFFLINE anemia detectetion edge computing ML.
-
-`TensorflowLite` · `¨Pytorch` · `Android` · `kotlin`
-
-[🔗 Live Demo](Soon) · [📂 Repo](https://github.com/BastleyNait/ANEMIVISION)
-
-</td>
-<td width="33%">
-
-### 🧾 Boom POS
-A full POS + CRM system with a polished UI/UX.
-
-`Next.js` · `API Routes` · `PostgreSQL` · `Zustand` · `Flask`
-
-[🔗 Live Demo](https://boom-pos.vercel.app/) · [📂 Repo](https://github.com/BastleyNait/BOOM-POS)
-
-</td>
-</tr>
-</table>
+> 📌 The **pinned repositories** above are the fundamentals: data structures, algorithms and operating systems,
+> implemented from scratch.
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Stack
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BastleyNait&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastleyNait&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&langs_count=8" alt="Top Languages"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,kotlin,java,cs,php&theme=dark" alt="Languages: TypeScript, JavaScript, Python, Kotlin, Java, C#, PHP"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BastleyNait&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,astro,tailwind,androidstudio,unity&theme=dark" alt="Frontend and mobile: React, Next.js, Vue, Astro, Tailwind CSS, Android, Unity"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BastleyNait&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django,postgres,supabase,mongodb,redis&theme=dark" alt="Backend and data: Node.js, FastAPI, Flask, Django, PostgreSQL, Supabase, MongoDB, Redis"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,gcp,aws,vercel,docker,linux,git&theme=dark" alt="AI and infrastructure: TensorFlow, PyTorch, Google Cloud, AWS, Vercel, Docker, Linux, Git"/>
 </p>
 
 ---
 
+## 📊 Activity
+
 <p align="center">
-  <i>✨ "Always learning, always building." ✨</i>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BastleyNait&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=12100e&title_color=27f5a9&icon_color=27f5a9&text_color=f3efe4" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastleyNait&layout=compact&hide_border=true&bg_color=12100e&title_color=27f5a9&text_color=f3efe4&langs_count=8" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0D1117&height=120&section=footer" alt="footer"/>
+  <img src="https://streak-stats.demolab.com/?user=BastleyNait&hide_border=true&background=12100e&ring=27f5a9&fire=27f5a9&currStreakLabel=27f5a9&sideLabels=f3efe4&currStreakNum=f3efe4&sideNums=f3efe4&dates=a8a39a&stroke=3a3530" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BastleyNait&style=flat-square&color=27f5a9&label=profile+views" alt="Profile views"/>
 </p>
